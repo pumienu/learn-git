@@ -1,1 +1,1 @@
-console.log("Apple")
+console.log("Learn")
